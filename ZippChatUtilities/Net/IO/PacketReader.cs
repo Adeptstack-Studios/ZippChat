@@ -1,9 +1,9 @@
 ﻿using System.Net.Sockets;
 using System.Text;
 
-namespace ZippChat.Net.IO
+namespace ZippChatUtilities.Net.IO
 {
-    class PacketReader : BinaryReader
+    public class PacketReader : BinaryReader
     {
         private NetworkStream netS;
 

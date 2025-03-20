@@ -1,8 +1,8 @@
 ﻿using System.Text;
 
-namespace ZippChat.Net.IO
+namespace ZippChatUtilities.Net.IO
 {
-    class PacketBuilder
+    public class PacketBuilder
     {
         MemoryStream ms;
 

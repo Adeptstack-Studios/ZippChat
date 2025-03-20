@@ -1,6 +1,6 @@
 ﻿using System.Net;
 using System.Net.Sockets;
-using ZippChatServer.Net.IO;
+using ZippChatUtilities.Net.IO;
 
 namespace ZippChatServer
 {
